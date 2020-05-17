@@ -6,7 +6,7 @@ Simple calculator that lets you add, subtract, multiply and divide.
 
 Simply download files from this repository.
 
-## Usage
+## Outcome
 ![Alt Text](http://g.recordit.co/ERnJlhqCHE.gif)
 
 
