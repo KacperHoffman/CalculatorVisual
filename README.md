@@ -4,11 +4,10 @@ Simple calculator that lets you add, subtract, multiply and divide.
 
 ## Installation
 
-Simply download files from this repository as ZIP and unpack them on your computer. 
-Open program with .appref-ms file.
+Simply download files from this repository.
 
 ## Usage
-![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
+![Alt Text](http://g.recordit.co/ERnJlhqCHE.gif)
 
 
 ## Environment
