@@ -1,0 +1,9 @@
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\bin\Debug\CalculatorVisual.exe.config
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\bin\Debug\CalculatorVisual.exe
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\bin\Debug\CalculatorVisual.pdb
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.Form1.resources
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.Properties.Resources.resources
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.exe
+C:\Users\Kacper\source\repos\CalculatorVisual\CalculatorVisual\obj\Debug\CalculatorVisual.pdb
